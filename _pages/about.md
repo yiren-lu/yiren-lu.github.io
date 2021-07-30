@@ -8,9 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Beijing University of Posts and Telecommunications</p>
+    <p>No.10 Xi Tu Cheng Road, Haidian District, Beijing, CN</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
