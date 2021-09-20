@@ -2,25 +2,28 @@
 layout: about
 title: about
 permalink: /
-description: senior year in Computer Science 
+description: senior year undergraduate in <b>Computer Science</b>
 
 profile:
   align: right
   image: self_pic.jpg
   address: >
-    Beijing University of Posts and Telecommunications
+    <i>Beijing Univ of Posts and Telcom
     <br/>
-    No.10 Xi Tu Cheng Road, 
+    No.10 Xi Tu Cheng Road
     <br/>
-    Haidian, Beijing, China
+    Haidian, Beijing, China</i>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `#53257f.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a senior year undergraduate student at Beijing University of Posts and Telecommunications, majoring in Computer Science and Technology. I am enrolling in Quantum Computation & Algorithm Theory Lab in Institute of Computing Technology (ICT), CAS, as a master candidate.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have rich experience in programming contests, therefore I'm highly skilled in coding and I'm quite familiar with many algorithms and data structures. I have participated in several ICPC onsite contests and other contests where I have won several awards. Besides participation, I have also designed many problems for several important programming contests, most of which are math-based.
+
+Though I have studied in a school known for cultivate engineering talents, I still have a dream of being a theorist who works at a abstract, mathematics level. In my foreseeable years ahead, I will be putting effort to the area of quantum algorithm design and analysis.
+
+This site contains some programming projects and slides for talks finished during my bachelor years, along with some blog posts on my study and life, and hopefully, items of publications in the near future.
