@@ -93,6 +93,19 @@ blockquote {
       margin : 0;
     }
   }
+
+  .cn-address {
+    margin-bottom: 5px;
+    margin-top   : 5px;
+    font-size    : 16px;
+    text-align   : right;
+
+    // font-family  : 'CMU Sans Serif Medium';
+    p {
+      display: inline-block;
+      margin : 0;
+    }
+  }
 }
 
 @media (min-width: 576px) {
