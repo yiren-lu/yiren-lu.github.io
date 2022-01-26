@@ -11,7 +11,7 @@
   Yiren  LU
   
   
-  | blog
+  | Board 2
   
 </title>
 <meta name="description" content="A simple, whitespace theme for academics.
@@ -46,7 +46,7 @@
 <link rel="icon" type='image/x-icon' href='/favicon.svg' />
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/board2/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -112,18 +112,14 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -180,18 +176,22 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>〈LUￜCIDAￜLU〉</h1>
-    <h2>algorithm, math, quantum</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Board 2</h1>
+    <p class="post-description">a private markdown persistent pastebin</p>
+  </header>
+
+  <article>
+    <p>Board 2 presents a convenient Pastebin service, which can be of great help when you want to share some snippet of text with your friend. You can simply paste a markdown snippet, obtain a URL pointing to the document, and send it to your friend.</p>
+
+<p>It is integrated with a markdown renderer that supports latex formula rendering and source code syntax highlighting in addition to standard markdown features. Moreover, it offers a pretty and user-friendly two-column online markdown editor, where you can edit your markdown content on the left side and preview rendered results on the right side, and the two columns will scroll to some proper position in accordance with one another.</p>
+
+<p>What makes it more powerful than most common Pastebin services is that it offers two types of URLs, one for readers and one for writers. That is, through the reader’s URL, one can only read the rendered HTML result, but users with the URL for writers are able to edit the raw markdown snippets as well. And synchronous editing introduces new trouble, that when multiple edits are created by different users simultaneously, how can we properly merge the change events and present all users with the same ultimate result? The solution is operational transformation.</p>
+
+<p>In Board 2, all edits users make are treated as operations like <code class="language-plaintext highlighter-rouge">inserting a string s after position p</code> or <code class="language-plaintext highlighter-rouge">delete p characters starting from position p</code>. And for each client, all edits together form a sequence of operations.</p>
 
 
-  <ul class="post-list">
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 
