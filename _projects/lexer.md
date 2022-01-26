@@ -4,7 +4,7 @@ title: Lexer
 description: a C lexer written in C++
 img: /assets/img/lex-fsm1.jpg
 importance: 1
-category: work
+category: course
 ---
 
 [👁 on Github](https://github.com/yiren-lu/bachelor-cs/tree/master/lexer)

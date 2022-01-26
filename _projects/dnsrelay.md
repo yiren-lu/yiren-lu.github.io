@@ -4,7 +4,7 @@ title: DNS Relay
 description: a tiny DNS proxy written in C
 img: /assets/dnsrelay/dnsrelay.png
 importance: 1
-category: work
+category: course
 ---
 
 [👁 on Github](https://github.com/yiren-lu/bachelor-cs/tree/master/dnsrelay)

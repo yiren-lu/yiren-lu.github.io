@@ -4,7 +4,7 @@ title: Parser
 description: an arithmetic expression parser written in C++
 img: /assets/parser/grammar.png
 importance: 1
-category: work
+category: course
 ---
 
 [👁 on Github](https://github.com/yiren-lu/bachelor-cs/tree/master/parser)

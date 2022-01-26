@@ -4,7 +4,7 @@ title: Board 2
 description: a private markdown persistent pastebin
 img: /assets/img/ot.png
 importance: 1
-category: work
+category: course
 ---
 
 Board 2 presents a convenient Pastebin service, which can be of great help when you want to share some snippet of text with your friend. You can simply paste a markdown snippet, obtain a URL pointing to the document, and send it to your friend.
